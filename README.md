@@ -1,5 +1,5 @@
-## Hi there 👋 I am Sukanta Nath
-# Co-founder at CUET Mongolchari-mars rover team
+# Hi there 👋 I am Sukanta Nath
+### Co-founder at CUET Mongolchari-mars rover team
 
 
 <!--
@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukantanath108&layout=compact&theme=dark)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 
 ### Contribution Statistics
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukantanath108&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sukantanath108&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukantanath108&show_icons=true&theme=dark) 
