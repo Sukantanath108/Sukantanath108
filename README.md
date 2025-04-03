@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 ### Contribution Statistics
-| GitHub Stats | GitHub Streak |
-|--------------|---------------|
+| GitHub Stats | 
+|--------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukantanath108&show_icons=true&theme=dark) 
