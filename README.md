@@ -5,15 +5,13 @@
 </div>
 
 # Hi there 👋 I am Sukanta Nath
-### Co-founder - CUET Mongolchari-mars rover team
+### 🚀 Deep learning and Artifical Intelligence and AI agent enthusiasts!
 
 
 <!--
 **Sukantanath108/Sukantanath108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🚀 Deep learning and Artifical Intelligence and AI agent enthusiasts!
 
-"Building tomorrow's autonomous systems, one algorithm at a time"
 
 🎯 About Me
 I'm a passionate third year mechanical engineering student, a deep learning and AI enthusiast dedicatedly working to acquire knowledge in the domains of autonomous navigation systems, AI agent building, Face Recognition. As Co-founder of the CUET Mongolchari Mars Rover Team, I aim to lead the development of cutting-edge computer vision and deep learning solutions that enable rovers to navigate and operate independently in challenging environments.
