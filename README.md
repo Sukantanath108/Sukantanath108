@@ -5,7 +5,7 @@
 </div>
 
 # Hi there 👋 I am Sukanta Nath
-### 🚀 Deep learning and Artifical Intelligence and AI agent enthusiasts!
+### 🚀 Deep learning, Artifical Intelligence and AI agent enthusiast!
 
 
 <!--
