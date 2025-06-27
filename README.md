@@ -3,7 +3,7 @@
 
 
 <!--
-**Sukantanath108/Sukantanath108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sukantanath108/Sukantanath108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🚀 Co-founder | CUET Mongolchari Mars Rover Team
 
@@ -37,8 +37,6 @@ class SukantaNath:
             "Computer vision algorithms for real-world navigation"
         ]
 
-     
--->
 
 # Languages and Tools : 
 ### Most Used Languages
