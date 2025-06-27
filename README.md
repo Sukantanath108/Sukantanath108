@@ -15,29 +15,29 @@ My journey combines theoretical knowledge with hands-on engineering, focusing on
 - 📫 Reach me at: nathsukanta007@gmail.com 
 - ⚡ Connect with me : [LinkedIn](https://www.linkedin.com/in/sukanta108/)
 
--->
 class SukantaNath:
-  def __init__(self):
-      self.role = "Co-founder & Lead Developer"
-      self.team = "CUET Mongolchari Mars Rover Team"
-      self.mission = "Autonomous navigation through AI & Computer Vision"
+    def __init__(self):
+        self.role = "Co-founder & Lead Developer"
+        self.team = "CUET Mongolchari Mars Rover Team"
+        self.mission = "Autonomous navigation through AI & Computer Vision"
         
-  def current_projects(self):
-      return {
-        "primary": "Mars Rover Autonomous Navigation System",
-        "technologies": ["Computer Vision", "Deep Learning", "ROS", "Python"],
-        "hardware": "Jetson Orin Nano",
-        "goal": "Fully autonomous rover capable of terrain analysis and path planning"
-      }
+    def current_projects(self):
+        return {
+            "primary": "Mars Rover Autonomous Navigation System",
+            "technologies": ["Computer Vision", "Deep Learning", "ROS", "Python"],
+            "hardware": "Jetson Orin Nano",
+            "goal": "Fully autonomous rover capable of terrain analysis and path planning"
+        }
     
-  def learning_journey(self):
-      return [
-        "Advanced Python for robotics applications",
-        "ROS (Robot Operating System) ecosystem",
-        "Embedded systems optimization on Jetson Orin Nano",
-        "Computer vision algorithms for real-world navigation"
+    def learning_journey(self):
+        return [
+            "Advanced Python for robotics applications",
+            "ROS (Robot Operating System) ecosystem",
+            "Embedded systems optimization on Jetson Orin Nano",
+            "Computer vision algorithms for real-world navigation"
         ]
-        
+
+     
 -->
 
 # Languages and Tools : 
