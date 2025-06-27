@@ -25,7 +25,7 @@ My journey combines theoretical knowledge with hands-on engineering, focusing on
 # Languages and Tools : 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukantanath108&layout=compact&theme=dark)
-<div align="center">
+<div align="left">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
