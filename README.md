@@ -14,8 +14,8 @@
 
 
 🎯 About Me
-I'm a passionate third year mechanical engineering student, a deep learning and AI enthusiast dedicatedly working to acquire knowledge in the domains of autonomous navigation systems, AI agent building, Face Recognition. As Co-founder of the CUET Mongolchari Mars Rover Team, I aim to lead the development of cutting-edge computer vision and deep learning solutions that enable rovers to navigate and operate independently in challenging environments.
-My journey combines theoretical knowledge with hands-on engineering, focusing on the intersection where computer vision meets autonomous robotics. I believe that the future of exploration – whether on Mars or here on Earth – depends on intelligent systems that can perceive, learn, and adapt to their surroundings.
+I'm a passionate third year mechanical engineering student, a deep learning and AI enthusiast dedicatedly working to acquire knowledge in the domains of autonomous navigation systems, AI agent building, Face Recognition. I aim to lead the development of cutting-edge computer vision and deep learning solutions that enable rovers to navigate and operate independently in challenging environments.
+My journey combines theoretical knowledge with hands-on engineering, focusing on the intersection where computer vision meets autonomous robotics. 
 - 📫 Reach me at: nathsukanta007@gmail.com 
 - ⚡ Connect with me : [LinkedIn](https://www.linkedin.com/in/sukanta108/)
 
