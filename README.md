@@ -14,7 +14,7 @@
 
 
 🎯 About Me
-I'm a passionate third year mechanical engineering student, a deep learning and AI enthusiast dedicatedly working to acquire knowledge in the domains of autonomous navigation systems, AI agent building, Face Recognition. I aim to lead the development of cutting-edge computer vision and deep learning solutions that enable rovers to navigate and operate independently in challenging environments.
+I'm a passionate third-year mechanical engineering student, a deep learning and AI enthusiast, dedicated to acquiring knowledge in the domains of autonomous navigation systems, AI agent building and Face Recognition. I aim to lead the development of cutting-edge computer vision and deep learning solutions that enable rovers to navigate and operate independently in challenging environments.
 My journey combines theoretical knowledge with hands-on engineering, focusing on the intersection where computer vision meets autonomous robotics. 
 - 📫 Reach me at: nathsukanta007@gmail.com 
 - ⚡ Connect with me : [LinkedIn](https://www.linkedin.com/in/sukanta108/)
@@ -35,7 +35,7 @@ My journey combines theoretical knowledge with hands-on engineering, focusing on
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 
 
 </div>  
