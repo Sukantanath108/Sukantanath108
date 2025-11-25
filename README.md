@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sukanta%20Nath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computer%20Vision&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sukanta%20Nath&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Chittagong%20University%20of%20Engineering%20%26%20Technology&descAlignY=55&descSize=18" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Sukanta+Nath!;Mechanical+Engineer+|+Computer+Vision+%26+AI+Agent+Enthusiast;Building+Autonomous+Mars+Rover+🚀;Deep+Learning+|+PyTorch+|+TensorFlow;Creating+Production-Ready+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Mechanical+Engineer+%7C+AI%2FML+Enthusiast;Computer+Vision+%26+Deep+Learning;Building+Autonomous+Mars+Rover+🚀;PyTorch+%7C+TensorFlow+%7C+OpenCV;Creating+Production-Ready+AI+Solutions" alt="Typing SVG" />
 </div>
-<br>
-
 <br>
 
 ## 🎯 About Me
