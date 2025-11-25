@@ -1,20 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sukanta%20Nath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computer%20Vision&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&color=F7F7F7&center=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sukanta+Nath!;Mechanical+Engineer+%7C+Computer+Vision+&+AI+Agent+Enthusiast;Building+Autonomous+Mars+Rover+%F0%9F%9A%80;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&color=F7F7F7&center=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sukanta+Nath!;Mechanical+Engineer+%7C+AI+Enthusiast;Building+Autonomous+Mars+Rovers+%F0%9F%9A%80;Robotics+%7C+Deep+Learning+%7C+Python+%7C+ROS+%7C+ESP32" alt="Typing SVG" />
-</div>
-
-# Hi there 👋 I am Sukanta Nath
-### 🚀 Deep learning, Artifical Intelligence and AI agent enthusiast!
 
 
-<br>
-
-## 🚀 About Me
-
-```python
 class SukantaNath:
     def __init__(self):
         self.name = "Sukanta Nath"
@@ -28,9 +17,14 @@ class SukantaNath:
 
 me = SukantaNath()
 me.say_hi()
-```
 
-I'm a third-year **Mechanical Engineering** student with a passion for **Artificial Intelligence** and **Computer Vision**. My journey combines engineering fundamentals with cutting-edge AI technologies to solve real-world problems. I specialize in developing end-to-end deep learning solutions and am particularly interested in autonomous systems and intelligent vision applications.
+# Hi there 👋 I am Sukanta Nath
+### 🚀 Deep learning, Artifical Intelligence and AI agent enthusiast!
+
+<br>
+
+## 🎯 About Me
+I’m an undergraduate mechanical engineering student with a deep passion for **Artificial Intelligence** and **Computer Vision**, and **Embedding systems**. I have a strong foundation in Python, Deep learning frameworks (e.g, PyTorch, Tensorflow), MLOps (Docker, Tensorboard, and W&B). I specialize in developing end-to-end deep learning solutions and am particularly interested in autonomous systems and intelligent vision applications.
 
 ---
 
