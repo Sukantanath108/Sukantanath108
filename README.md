@@ -27,7 +27,8 @@ I’m an undergraduate mechanical engineering student with a deep passion for **
 </p>
 
 ---
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 Programming Languages
 
 <p align="left">
@@ -38,18 +39,21 @@ Programming Languages
 
 Frontend
 
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
 </p>
+
 Deep Learning
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
 </p>
+
 ML & Data Science
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
@@ -57,7 +61,9 @@ ML & Data Science
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" />
 </p>
+
 Tools & MLOps
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
