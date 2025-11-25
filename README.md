@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+Intelligent+Vision+Systems+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+AI;Mechanical+Engineering+%2B+AI+%3D+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&color=F7F7F7&center=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sukanta+Nath!;Mechanical+Engineer+%7C+AI+Enthusiast;Building+Autonomous+Mars+Rovers+%F0%9F%9A%80;Robotics+%7C+Deep+Learning+%7C+Python+%7C+ROS+%7C+ESP32" alt="Typing SVG" />
 </div>
+
+# Hi there 👋 I am Sukanta Nath
+### 🚀 Deep learning, Artifical Intelligence and AI agent enthusiast!
+
 
 <br>
 
