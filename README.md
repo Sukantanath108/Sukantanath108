@@ -54,16 +54,8 @@ ML & Data Science
 </p>
 Tools & MLOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/latex.svg" width="50" height="50" alt="LaTeX" />
-</p>
-Design & CAD
-<p align="left">
-  <img src="https://seeklogo.com/images/S/solidworks-logo-EF2C0CA793-seeklogo.com.png" width="50" height="50" alt="SolidWorks" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" width="50" height="50" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" />
 </p>
 
 ---
