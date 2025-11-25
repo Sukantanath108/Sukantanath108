@@ -11,8 +11,6 @@
 ## 🎯 About Me
 I’m an undergraduate mechanical engineering student with a deep passion for **Artificial Intelligence** and **Computer Vision**, and **Embedding systems**. I have a strong foundation in Python, Deep learning frameworks (e.g, PyTorch, Tensorflow), MLOps (Docker, Tensorboard, and W&B). I specialize in developing end-to-end deep learning solutions and am particularly interested in autonomous systems and intelligent vision applications.
 
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -31,12 +29,11 @@ I’m an undergraduate mechanical engineering student with a deep passion for **
 </p>
 
 ---
-
 🛠️ Tech Stack
 Programming Languages
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
 </p>
 Frontend
 <p align="left">
@@ -59,8 +56,8 @@ ML & Data Science
 </p>
 Tools & MLOps
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="50" alt="LaTeX" />
 </p>
@@ -91,43 +88,16 @@ Design & CAD
   <img src="https://raw.githubusercontent.com/Sukantanath108/Sukantanath108/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **Note:** To enable the snake animation, you'll need to set up a GitHub Action. See instructions below.
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Computer Vision Techniques
-  - MLOps & Model Deployment
-  - AI Agent Development
-  - Embedded AI Systems
-
-Projects:
-  - Production-ready Computer Vision Solutions
-  - Face Recognition Systems
-  - Autonomous Navigation Systems
-  - Deep Learning Model Optimization
-
-Goals_2025:
-  - Master Docker & Kubernetes
-  - Build AI-powered applications
-  - Contribute to open-source AI projects
-  - Expand knowledge in Edge AI
-```
-
 
 
 ## 💡 Fun Facts
 
-- 🔧 Mechanical Engineer turned AI enthusiast
+- 🔧 Mechanical Engineer turned AI/ML enthusiast
 - 🤖 Passionate about building intelligent systems
 - 🎯 Love solving complex problems with simple solutions
 - 📚 Always learning, always growing
 - ☕ Powered by curiosity and coffee
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sukantanath108&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
@@ -137,52 +107,4 @@ Goals_2025:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
----
 
-### 🐍 How to Set Up the Snake Animation
-
-To enable the snake animation in your profile, follow these steps:
-
-1. Go to your profile repository (`Sukantanath108/Sukantanath108`)
-2. Create a new folder: `.github/workflows`
-3. Inside that folder, create a file named `snake.yml`
-4. Add this code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-5. Commit and push the changes
-6. The snake animation will be generated automatically!
