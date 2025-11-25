@@ -2,25 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&color=F7F7F7&center=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sukanta+Nath!;Mechanical+Engineer+%7C+Computer+Vision+&+AI+Agent+Enthusiast;Building+Autonomous+Mars+Rover+%F0%9F%9A%80;" alt="Typing SVG" />
 </div>
 
-
-
-class SukantaNath:
-    def __init__(self):
-        self.name = "Sukanta Nath"
-        self.role = "Mechanical Engineering Student & AI/ML Enthusiast"
-        self.location = "Bangladesh"
-        self.interests = ["Computer Vision", "Deep Learning", "AI Agents", "Embedded Systems"]
-        self.current_focus = "Building production-ready Computer Vision solutions"
-        
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-
-me = SukantaNath()
-me.say_hi()
-
-# Hi there 👋 I am Sukanta Nath
-### 🚀 Deep learning, Artifical Intelligence and AI agent enthusiast!
-
 <br>
 
 ## 🎯 About Me
