@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=800&color=F7F7F7&center=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sukanta+Nath!;Mechanical+Engineer+%7C+Computer+Vision+&+AI+Agent+Enthusiast;Building+Autonomous+Mars+Rover+%F0%9F%9A%80;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sukanta%20Nath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Computer%20Vision&descAlignY=51&descAlign=50" width="100%"/>
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Sukanta+Nath!;Mechanical+Engineer+|+Computer+Vision+%26+AI+Agent+Enthusiast;Building+Autonomous+Mars+Rover+🚀;Deep+Learning+|+PyTorch+|+TensorFlow;Creating+Production-Ready+AI+Solutions" alt="Typing SVG" />
+</div>
+<br>
 
 <br>
 
@@ -9,53 +13,91 @@ I’m an undergraduate mechanical engineering student with a deep passion for **
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
-
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-### Deep Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-### Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-</p>
-
-### MLOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorBoard"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-</p>
-
-### Design & Engineering Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>Programming Languages</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="50" height="50" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>Frontend</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>Deep Learning</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>ML & Data Science</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
+      <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="50" height="50" alt="Seaborn" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>Tools & MLOps</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+      <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width="50" height="50" alt="LaTeX" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <strong>Design & CAD</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-plain.svg" width="50" height="50" alt="SolidWorks" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50" alt="Illustrator" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,7 +107,6 @@ I’m an undergraduate mechanical engineering student with a deep passion for **
   <img src="https://github-readme-stats.vercel.app/api?username=Sukantanath108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukantanath108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukantanath108&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
 </div>
