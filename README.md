@@ -7,7 +7,12 @@
 <br>
 
 ## 🎯 About Me
-I’m an undergraduate mechanical engineering student with a deep passion for **Artificial Intelligence** and **Computer Vision**, and **Embedding systems**. I have a strong foundation in Python, Deep learning frameworks (e.g, PyTorch, Tensorflow), MLOps (Docker, Tensorboard, and W&B). I specialize in developing end-to-end deep learning solutions and am particularly interested in autonomous systems and intelligent vision applications.
+I’m an undergraduate mechanical engineering student with a deep passion for **Artificial Intelligence**, **Computer Vision**, and **Data-driven Modeling**. I have a strong foundation in Python, Deep learning frameworks (e.g., PyTorch, TensorFlow), and MLOps (Docker, TensorBoard, and W&B). I specialize in developing end-to-end data-driven analyses and solutions. I am particularly interested in data-driven engineering, HVAC systems, predictive maintenance, sustainable energy technologies, and AI-enabled engineering applications.
+
+ 
+My academic and project experiences have focused on leveraging machine learning, computer vision, and analytical modeling to address practical engineering problems. I am particularly interested in developing intelligent systems that combine engineering principles with modern data-driven approaches.
+
+My long-term goal is to contribute to research and innovation in intelligent mechanical systems through graduate studies and interdisciplinary collaboration.
 
 ## 📫 Connect With Me
 
