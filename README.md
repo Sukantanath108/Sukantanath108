@@ -32,11 +32,12 @@ I have explored machine learning, deep learning, computer vision, numerical mode
 
 ### 📚 Research
 
-**AJCAI 2026 — Accepted Paper**  
-Research in AI and computational modelling.
+Title: **Outcome-Conditioned Care Pathway Synthesis: A Benchmark of Generative Sequence Models on Clinical Event Logs**  
+**AJCAI 2026 — Accepted Paper**
+
 
 **Undergraduate Thesis**  
-*A Quality-Weighted Framework for Data Synthesis and Simulation-Guided Blend Screening of Waste Cooking Oil Biodiesel Blends*
+Title: *A Quality-Weighted Framework for Data Synthesis and Simulation-Guided Blend Screening of Waste Cooking Oil Biodiesel Blends*
 
 ---
 
